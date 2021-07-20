@@ -1,5 +1,5 @@
-c	Description
-**addr_state**	The state provided by the borrower in the loan application
+	Description
+**addr_state**	The state provided by the borrower in the loan application /n
 **annual_inc**	The self-reported annual income provided by the borrower during registration.
 **annual_inc_joint**	The combined self-reported annual income provided by the co-borrowers during registration
 **application_type**	Indicates whether the loan is an individual application or a joint application with two co-borrowers

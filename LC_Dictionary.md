@@ -1,4 +1,4 @@
-	Description
+	Feature	Description
 **addr_state**	The state provided by the borrower in the loan application  <br />
 **annual_inc**	The self-reported annual income provided by the borrower during registration.  <br />
 **annual_inc_joint**	The combined self-reported annual income provided by the co-borrowers during registration <br />
@@ -78,6 +78,6 @@ url	URL for the LC page with listing data. <br />
 **acc_now_delinq**	The number of accounts on which the borrower is now delinquent. <br />
 **tot_coll_amt**	Total collection amounts ever owed <br />
 **tot_cur_bal**	Total current balance of all accounts <br />
-	
-	* Employer Title replaces Employer Name for all loans listed after 9/23/2013
-![image](https://user-images.githubusercontent.com/48889548/126403009-da338ace-b901-4833-af3e-e26ed2586e0e.png)
+
+
+![image](https://user-images.githubusercontent.com/48889548/126403945-754f310a-96fa-43fe-a284-d5fd84888dd9.png)
